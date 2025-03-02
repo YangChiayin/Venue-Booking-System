@@ -1,4 +1,5 @@
 # Venue Booking System
+<img src="https://github.com/user-attachments/assets/a20e284f-f542-4fc1-a62b-d27a2bc25fd7" width="500" />
 
 This application allows users to book seats, add themselves to a waitlist, and cancel bookings for a venue with a limited number of seats. The application is developed using **C# with a Windows Forms interface**, providing an interactive way to manage bookings.
 
